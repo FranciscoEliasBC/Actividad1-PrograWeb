@@ -18,6 +18,11 @@ h1{
     text-align: center;
     margin-bottom: 20px;
 }
+h2{
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 20px;
+}
 .horario{
     width: 100%;
     border-collapse: collapse;
